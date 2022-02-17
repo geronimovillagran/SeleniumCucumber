@@ -1,0 +1,22 @@
+plugins{
+    id 'java'
+}
+
+group 'CursoUdemy'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 15
+
+repositories {
+    mavenCentral()
+}
+
+dependencies{
+// https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java
+    implementation 'org.seleniumhq.selenium:selenium-java:4.1.2'
+// https://mvnrepository.com/artifact/info.cukes/cucumber-junit
+    testImplementation 'info.cukes:cucumber-junit:1.2.6'
+// https://mvnrepository.com/artifact/info.cukes/cucumber-java
+    implementation 'info.cukes:cucumber-java:1.2.6'
+
+}

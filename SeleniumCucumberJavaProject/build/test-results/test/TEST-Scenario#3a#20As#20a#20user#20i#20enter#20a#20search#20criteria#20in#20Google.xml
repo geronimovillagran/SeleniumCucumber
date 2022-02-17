@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Scenario: As a user i enter a search criteria in Google" tests="5" skipped="4" failures="0" errors="0" timestamp="2022-02-17T20:27:13" hostname="NTBK-UY108" time="0.006">
+  <properties/>
+  <testcase name="Given I am on the Google search page" classname="Scenario: As a user i enter a search criteria in Google" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="When I enter a search criteria" classname="Scenario: As a user i enter a search criteria in Google" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="And Click on the search button" classname="Scenario: As a user i enter a search criteria in Google" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Then The result march the criteria" classname="Scenario: As a user i enter a search criteria in Google" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="classMethod" classname="Scenario: As a user i enter a search criteria in Google" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
